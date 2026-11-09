@@ -1,0 +1,19 @@
+Step 1: Start the application.
+
+Step 2: Display the menu with options to add, search, view, and reserve books.
+
+Step 3: Store book and student details using lists and dictionaries.
+
+Step 4: Check book availability when a student requests a reservation.
+
+Step 5: If available, assign the book to the student.
+
+Step 6: If unavailable, add the student to the waiting list using a queue or priority queue.
+
+Step 7: When a book is returned, assign it to the next eligible student.
+
+Step 8: Generate a notification about book availability.
+
+Step 9: Save updated records using file handling.
+
+Step 10: Stop the application.

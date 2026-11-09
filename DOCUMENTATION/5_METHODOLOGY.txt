@@ -1,0 +1,11 @@
+
+
+- Adding and managing book details.
+- Searching books by title or author.
+- Checking book availability.
+- Managing student reservations.
+- Maintaining priority-based waiting lists.
+- Allocating returned books to waiting students.
+- Generating book availability notifications.
+- Saving records using file handling.
+- Displaying updated library information.

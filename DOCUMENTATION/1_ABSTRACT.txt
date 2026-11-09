@@ -1,0 +1,3 @@
+
+
+The Smart Library Book Reservation and Priority Management System is a Python-based application designed to manage library books, student reservations, and waiting lists efficiently. It tracks book availability and handles multiple reservation requests using queues and priority queues based on predefined rules. When a book becomes available, it is automatically assigned to the next eligible student, and a notification is generated. The system uses searching, sorting, file handling, and Object-Oriented Programming (OOP) to maintain records and simplify library operations. It aims to reduce manual work and improve the efficiency of library management.
